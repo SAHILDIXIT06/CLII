@@ -1,0 +1,25 @@
+1. Planning Enterprise Architecture
+
+Planning enterprise architecture is all about setting a clear direction for how an organization’s IT systems will support its business goals.
+To start with, it’s important to understand the company’s overall mission and vision. Once that’s clear, the next step is to assess the current systems and identify what’s working and what’s not. Based on that, a target architecture is designed a blueprint of how the organization wants its technology setup to look in the future.
+A gap analysis is then done to find the differences between the current and target states, followed by an implementation roadmap that outlines the steps and priorities for achieving that goal.
+For example, a bank planning to move from traditional on-premise servers to cloud infrastructure does this to ensure scalability and better performance.
+
+2. Securing Enterprise Architecture
+
+Security plays a critical role in protecting enterprise architecture from both internal and external threats.
+This starts with controlling who has access to what, usually done through role-based access control (RBAC). Sensitive data must always be protected encrypted when stored and while being transmitted. Network security tools like firewalls, VPNs, and intrusion detection systems help keep systems safe from cyberattacks.
+Following global standards such as ISO 27001 or GDPR ensures compliance and data safety. The most important part is to build security into the architecture right from the design phase, not as an afterthought.
+For instance, an e-commerce company might use multi-factor authentication and regular security audits to protect customer information.
+
+3. Governing Enterprise Architecture
+
+Governance ensures that the architecture continues to align with business objectives, standards, and policies.
+Usually, an architecture board is formed to review and approve major decisions. The organization also defines clear policies and standards for technology use, data management, and system design. Regular monitoring helps ensure compliance, and a change management process makes sure any updates are controlled and documented properly.
+Tracking performance through key metrics like uptime, ROI, and compliance rate helps measure success.
+For example, a manufacturing company using the TOGAF framework can maintain consistent technology practices across all departments through proper governance.
+
+Conclusion
+
+In simple terms, planning helps define where the organization wants to go, securing ensures its systems are safe, and governing keeps everything on track with business goals.
+Together, they form the foundation of a strong, secure, and well-managed enterprise architecture.
